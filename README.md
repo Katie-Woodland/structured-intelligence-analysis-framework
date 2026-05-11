@@ -31,3 +31,6 @@ Licensed under **CC-BY-NC-SA 4.0** — see the [LICENSE](LICENSE) file.
 - Example Judgement Matrix images and the Dr. Elias Thorne visualisation prompt can be added later if you want to include them in the repo.
 
 **Questions or want to contribute improvements?** Open an Issue or contact @wookat1983.
+
+
+For advanced visual Judgement Matrix outputs, Dr. Elias Thorne image generation prompts, and visual analysis tools, see the companion repository: Elias Thorne Visualisation: https://github.com/Katie-Woodland/elias-thorne-profiling-system
