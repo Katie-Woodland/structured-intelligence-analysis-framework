@@ -1,36 +1,51 @@
-# Structured Intelligence Analysis Framework
+## 🚀 How to Use This Framework
 
-**A bias-resistant, structured analysis system for serious thinkers**
+This system is designed to help **anyone** conduct thorough, bias-resistant analysis on complex or controversial topics (politics, current events, personal decisions, strategy, investments, etc.). It forces you to confront your own beliefs first and actively try to disprove them rather than confirm them.
 
-Created by Katie Woodland (@wookat1983) in collaboration with Grok (xAI).
+### Step-by-Step Usage Guide
 
-This repository contains a **complete, copy-paste ready prompt** designed to help anyone (left, right, or anywhere in between) conduct high-quality, disconfirmation-focused intelligence analysis on complex topics — politics, strategy, personal decisions, business, or current events.
+1. **Go to the main prompt**  
+   Open [`MASTER-STARTER-PACK.md`](MASTER-STARTER-PACK.md) and copy the **entire content**.
 
-### ✨ Key Features
-- Forces a Pre-Analysis Self-Bias & Psych Profile Protocol before any work begins
-- Strict 6-step process with built-in stops after every step
-- Professional Judgement Matrix (exact formatting enforced)
-- Creative Mode and Logical Mode
-- Automatically generates a **personalised reusable prompt** after first use
-- Works with Grok, ChatGPT, Claude, or any compatible AI
-- Designed to train the skill of actively trying to disprove your own beliefs
+2. **Start a fresh chat**  
+   Paste the entire prompt into a new conversation with Grok, ChatGPT, Claude, or any capable AI.
 
-### 📥 How to Use
-1. Go to the file `MASTER-STARTER-PACK.md`
-2. Copy the **entire content**
-3. Paste it into a brand-new chat with your AI
-4. Follow the guided process — it will walk you through everything, including building your personalised version
+3. **Complete Step 0 (First time only)**  
+   The AI will guide you through:
+   - Pasting or running your Psych Profile
+   - Answering 5 key self-bias questions
+   - It will then generate a **personalised reusable prompt** for you  
+   → **Copy and pin/save this personalised prompt** — you can use it in future threads without repeating Step 0.
 
-### 📜 Licence
-Licensed under **CC-BY-NC-SA 4.0** — see the [LICENSE](LICENSE) file.
+4. **Choose your mode**  
+   - **Creative Mode** → Best for initial idea generation and exploring possibilities  
+   - **Logical Mode** → Best for rigorous structuring and matrix work
 
-**You must credit Katie Woodland (@wookat1983) if you share or modify it.**
+5. **Follow the 6-Step Process**  
+   The AI will stop after each step for your input and feedback. This built-in pausing prevents rushing and encourages active participation.
 
-### Additional Resources
-- You will need your own Psych Profile prompt (co-created separately) to complete Step 0 the first time.
-- Example Judgement Matrix images and the Dr. Elias Thorne visualisation prompt can be added later if you want to include them in the repo.
+6. **Use the Judgement Matrix**  
+   In Step 4 you will get a professional, colour-coded matrix that makes the diagnostic strength of evidence visually clear.
 
-**Questions or want to contribute improvements?** Open an Issue or contact @wookat1983.
+7. **Finish with the Full Report**  
+   At the end you can request a comprehensive analytical report with probabilities, timelines, and watch-points.
 
+### Recommended Companion Tool
 
-For advanced visual Judgement Matrix outputs, Dr. Elias Thorne image generation prompts, and visual analysis tools, see the companion repository: Elias Thorne Visualisation: https://github.com/Katie-Woodland/elias-thorne-profiling-system
+**Use this framework in conjunction with the [Elias Thorne Profiling & Visualisation System](https://github.com/Katie-Woodland/elias-thorne-profiling-system)**
+
+**Why you should use them together:**
+- The main framework gives you **text-based structured analysis** and forces rigorous thinking.
+- Elias Thorne adds **rich psychological profiling** of key individuals/organisations and **visual Judgement Matrix outputs** (beautiful, colour-coded images instead of plain tables).
+- Together they create a much more powerful system: deep human-behaviour insight + visual clarity for complex evidence.
+- Many users find that seeing a visual matrix dramatically improves their understanding and memory of the analysis.
+
+**Workflow recommendation:**  
+Run the core 6-step process here first, then paste key outputs (especially the text matrix) into an Elias Thorne thread for profiling and visual enhancement.
+
+### Tips for Best Results
+- Always complete Step 0 honestly — this is the most important bias-resistance step.
+- Use Creative Mode when you feel stuck or want breadth.
+- Be willing to say “this surprises me” or “this challenges my view” — the system is designed to reward intellectual honesty.
+- Return to the same thread with new evidence later — the analysis can be updated iteratively.
+- Take the suggested movement breaks — they genuinely improve analytical performance.
