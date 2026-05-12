@@ -1,3 +1,18 @@
+# Structured Intelligence Analysis Framework
+
+**Bias-resistant structured thinking for complex topics**
+
+Created by Katie Woodland (@wookat1983)
+
+A complete, copy-pasteable system that helps you:
+- Confront and map your own biases first
+- Actively try to disprove your beliefs
+- Use a professional Judgement Matrix
+- Generate clear probabilities and actionable watch-points
+
+**Best used together with the [Elias Thorne Profiling & Visualisation System](https://github.com/Katie-Woodland/elias-thorne-profiling-system)** for deeper psychological insight and visual matrices.
+
+
 ## 🚀 How to Use This Framework
 
 This system is designed to help **anyone** conduct thorough, bias-resistant analysis on complex or controversial topics (politics, current events, personal decisions, strategy, investments, etc.). It forces you to confront your own beliefs first and actively try to disprove them rather than confirm them.
